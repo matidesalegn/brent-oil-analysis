@@ -35,7 +35,7 @@ def clean_data(data):
     return data
 
 if __name__ == "__main__":
-    file_path = '../data/brent_oil_prices.csv'
+    file_path = '../data/BrentOilPrices.csv'
     data = load_data(file_path)
     clean_data = clean_data(data)
     print(clean_data.head())
