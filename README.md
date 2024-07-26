@@ -24,10 +24,7 @@ This project explores the analysis and forecasting of Brent oil prices using tim
    - Summary of findings and potential applications
 9. **Getting Started**
    - Instructions for running the code or reproducing the analysis
-10. **Contributing**
-    - Guidelines for contributors (if applicable)
-11. **License**
-    - Specify the project's license (e.g., MIT, Apache, etc.)
+
 
 ## Installation
 
